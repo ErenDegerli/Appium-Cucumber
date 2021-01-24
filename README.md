@@ -1,5 +1,5 @@
 # Getir Test Case
-### Appium Test Framework
+### Appium-Cucumber Test Framework
 
 This is the task prepared for Getir test case request. It includes the steps of Sign In, Cart Controls, Adding/Removing Products etc. Please check the instruction below for running the script.
 
