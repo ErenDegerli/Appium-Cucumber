@@ -1,9 +1,9 @@
 # Getir Test Case
-###Appium Test Framework
+### Appium Test Framework
 
 This is the task prepared for Getir test case request. It includes the steps of Sign In, Cart Controls, Adding/Removing Products etc. Please check the instruction below for running the script.
 
-(Java, Selenium, Appium, JUnit5, Log4j, Allure Reports)
+(Java, Selenium, Appium, JUnit5, Log4j, Allure Reports, Cucumber)
 
 ## Running the tests
 
@@ -11,7 +11,7 @@ In order to run the test please use the code below on the command prompt
 
 - mvn clean test
 
-##To See Report
+## To See Report
 - install allure from here https://docs.qameta.io/allure/#_installing_a_commandline
 
 When the test execution finished, enter the command below inside the project in order to see Allure Results:
